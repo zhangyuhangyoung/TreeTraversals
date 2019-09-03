@@ -1,0 +1,9 @@
+C:\Users\YH\source\repos\TreeTraversals\TreeTraversals\obj\Debug\TreeTraversals.csprojAssemblyReference.cache
+C:\Users\YH\source\repos\TreeTraversals\TreeTraversals\obj\Debug\TreeTraversals.Properties.Resources.resources
+C:\Users\YH\source\repos\TreeTraversals\TreeTraversals\obj\Debug\TreeTraversals.csproj.GenerateResource.cache
+C:\Users\YH\source\repos\TreeTraversals\TreeTraversals\obj\Debug\TreeTraversals.csproj.CoreCompileInputs.cache
+C:\Users\YH\source\repos\TreeTraversals\TreeTraversals\bin\Debug\TreeTraversals.exe.config
+C:\Users\YH\source\repos\TreeTraversals\TreeTraversals\bin\Debug\TreeTraversals.exe
+C:\Users\YH\source\repos\TreeTraversals\TreeTraversals\bin\Debug\TreeTraversals.pdb
+C:\Users\YH\source\repos\TreeTraversals\TreeTraversals\obj\Debug\TreeTraversals.exe
+C:\Users\YH\source\repos\TreeTraversals\TreeTraversals\obj\Debug\TreeTraversals.pdb
